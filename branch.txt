@@ -1,2 +1,3 @@
 $ git tag -a v1.2 -m 'my version'
 e
+куе
